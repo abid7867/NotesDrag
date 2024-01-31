@@ -7,7 +7,7 @@ Welcome to Notes Drag! This is a simple ReactJS application that allows you to c
 ## Demo
 
 You can check out the live demo [(https://notes-drag.vercel.app/)](https://notes-drag.vercel.app/).
-![Notes Drag Demo](./path/to/your/image.png)
+![Notes Drag Demo]([./path/to/your/image.png](https://github.com/abid7867/TuneHubSongs/blob/main/Screenshot%20(165).png))
 ## Features
 
 - Create and delete notes
