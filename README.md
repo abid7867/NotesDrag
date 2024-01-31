@@ -1,13 +1,11 @@
-# React + Vite
-
-# Notes Drag
-
+ # Notes Drag / # React + Vite
 Welcome to Notes Drag! This is a simple ReactJS application that allows you to create notes and drag them anywhere on the page. The application is also responsive, making it easy to use on various devices.
+<img src="https://github.com/abid7867/TuneHubSongs/blob/main/Screenshot%20(165).png" alt="abid" />
 
 ## Demo
 
 You can check out the live demo [(https://notes-drag.vercel.app/)](https://notes-drag.vercel.app/).
-![Notes Drag Demo]([./path/to/your/image.png](https://github.com/abid7867/TuneHubSongs/blob/main/Screenshot%20(165).png))
+
 ## Features
 
 - Create and delete notes
